@@ -7,5 +7,5 @@ This Is The Link to the Project Folder which contains everything (Original Datas
 
 
 
-Here is also the Link to the Tableau Dashboard (NOTE: The Visaulization bit was part of the marking rubric, so I did it roughly): https://public.tableau.com/app/profile/shakeel.ali3390/viz/BUSAN300Project/Dashboard2
+Here is also the Link to the Tableau Dashboard (NOTE: The Visaulization bit wasn't part of the marking rubric, so I did it roughly): https://public.tableau.com/app/profile/shakeel.ali3390/viz/BUSAN300Project/Dashboard2
 
